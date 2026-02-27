@@ -31,4 +31,4 @@ Server runs on:
 - src/
 ## 👨‍💻 Author
 
-Created by [Boxit]
+Created by [myaumi]
